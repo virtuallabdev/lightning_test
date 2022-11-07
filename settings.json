@@ -1,0 +1,21 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0x00000000",
+      "useImageWorker": true
+    },
+    "debug": true
+  },
+  "platformSettings": {
+    "path": "./static",
+    "log": true,
+    "showVersion": false,
+    "showFps": false,
+    "inspector": false,
+    "gcOnUnload": true,
+    "lazyCreate": true,
+    "lazyDestroy": true,
+    "reuseInstance": true,
+    "logRoute": false
+  }
+}
